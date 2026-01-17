@@ -12,4 +12,5 @@ Here’s a riddle to guide you:
 
 Use the clues above to guide you through the steps. By the end, you’ll master the basics of Git and unravel the mystery behind its powerful commands!
 
+;'
 
